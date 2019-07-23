@@ -1,6 +1,6 @@
 # ruby-rails-setup
 
-##Linux 
+## Linux 
 
 Basic Installation: https://gorails.com/setup/ubuntu/18.04
 
