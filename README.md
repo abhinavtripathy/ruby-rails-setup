@@ -1,10 +1,10 @@
-# ruby/Rails Setup Instructions & Help
+# Ruby/Rails Setup Instructions & Help
 
 ## Linux 
 
 Basic Installation: https://gorails.com/setup/ubuntu/18.04
 
-Error Handling:
+Error Handling(During Installation):
 
 GemFile Prevents Rake Commands: https://stackoverflow.com/questions/23287357/already-activated-rake-version-different-than-what-gemfile-requires-prevents-rak
 
