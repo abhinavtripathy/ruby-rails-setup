@@ -3,6 +3,7 @@
 ## Linux 
 
 Basic Installation: https://gorails.com/setup/ubuntu/18.04
+
 Choice of Installation of Ruby: Rbenv
 
 Error Handling(During Installation):
