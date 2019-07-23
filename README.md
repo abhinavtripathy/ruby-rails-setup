@@ -1,4 +1,4 @@
-# ruby-rails-setup
+# ruby/Rails Setup Instructions & Help
 
 ## Linux 
 
